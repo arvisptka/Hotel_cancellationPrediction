@@ -1,4 +1,4 @@
-# Booking Cancellation Prediction Analysis
+# Booking Cancellation Prediction Analysis 📊
 
 ### Project:
 Build a predictive model to predict whether customers will cancel bookings and provide business insights.
